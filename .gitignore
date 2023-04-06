@@ -1,0 +1,5 @@
+.env
+.pytest_cache/
+.vscode/*
+!.vscode/launch.json
+__pycache__/
